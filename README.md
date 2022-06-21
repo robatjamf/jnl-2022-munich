@@ -11,6 +11,7 @@ Jamf Blog https://www.jamf.com/blog/
 - Autopkgr - https://github.com/lindegroup/autopkgr/wiki
 - Installomator - https://github.com/Installomator/Installomator/wiki
 - Automating Installations with Installomator - JNUC 2021 https://scriptingosx.com/jnuc2021/
+- App Installers - https://docs.jamf.com/jamf-pro/documentation/App_Installers.html
 - Jamf App Catalog - https://docs.jamf.com/jamf-app-catalog/Jamf_App_Catalog.html
 
 ### Software Update
