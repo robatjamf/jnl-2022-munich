@@ -21,3 +21,7 @@ Jamf Blog https://www.jamf.com/blog/
 
 ### macOS Update / Upgrade
 - erase-install.sh - https://github.com/grahampugh/erase-install/wiki
+
+
+### Blog post on understanding the logs of AppInstaller
+https://www.modtitan.com/2022/03/in-weeds-with-app-installers-preview.html
